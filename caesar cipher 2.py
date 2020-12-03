@@ -1,7 +1,7 @@
 english_lowercase = 'abcdefghijklmnopqrstuvwxyz'
 english_uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 s = []
-text = 'mama, papa, me'
+text = input()
 text_s = []
 marks = '" ! # @ $ ; % ^ : & ? * ( ) - + = , . / '.split(' ')
 for i in range(len(text)):
